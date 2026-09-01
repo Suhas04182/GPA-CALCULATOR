@@ -2,7 +2,7 @@
 A single‑page web app for college students to calculate SGPA and CGPA with per‑user login,
 admin approval system, and browser‑based data storage. Built using HTML, CSS, and JavaScript
 only (no backend). 
-
+ 
 #Features
 * Login / Register system (username + password).
 * Admin role: 
