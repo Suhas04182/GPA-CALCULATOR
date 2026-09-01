@@ -5,7 +5,7 @@ only (no backend).
 
 #Features
 * Login / Register system (username + password).
-* Admin role:
+* Admin role: 
     * Only admin can edit marks (add/modify subjects, semesters).
     * Can see all registered users.
     * Can approve / revoke student accounts.
