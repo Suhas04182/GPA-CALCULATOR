@@ -10,7 +10,7 @@ only (no backend).
     * Can see all registered users.
     * Can approve / revoke student accounts.
 * Student role:
-    * Can log in only after admin approves the account.
+    * Can log in only after admin approves the account. 
     * Can view own SGPA/CGPA and saved semesters.
 * CGPA / SGPA calculator:
     * Multi‑semester support.
