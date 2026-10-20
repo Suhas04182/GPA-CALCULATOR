@@ -9,7 +9,7 @@ only (no backend).
     * Only admin can edit marks (add/modify subjects, semesters).
     * Can see all registered users.
     * Can approve / revoke student accounts.
-* Student role:
+* Student role: 
     * Can log in only after admin approves the account. 
     * Can view own SGPA/CGPA and saved semesters.
 * CGPA / SGPA calculator:
