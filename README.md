@@ -4,7 +4,7 @@ admin approval system, and browser‑based data storage. Built using HTML, CSS, 
 only (no backend).  
   
 #Features
-* Login / Register system (username + password).
+* Login / Register system (username + password). 
 * Admin role: 
     * Only admin can edit marks (add/modify subjects, semesters).
     * Can see all registered users.
